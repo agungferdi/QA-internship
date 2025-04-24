@@ -49,7 +49,7 @@ Calculates the highest altitude reached during a road trip based on an array of 
 
 All tasks have been successfully implemented and tested. The screenshot below shows the output of running all five tasks:
 
-![Task Results](/Users/ferdiansyahmuhammadagung/Projects/amartha/internship/tasks/ss%20results/Screenshot%202025-04-24%20at%2016.47.27.png)
+![Task Results](tasks/ss%20results/Screenshot%202025-04-24%20at%2016.47.27.png)
 
 The results demonstrate that:
 - Task 1: The biased random function correctly returns 0 with ~75% probability and 1 with ~25% probability
